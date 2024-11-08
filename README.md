@@ -43,7 +43,7 @@ The project combines **MediaPipe's hand-tracking capabilities** with **PyCaw's a
 ## ⚙️ How to Run
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/HandGesture-VolumeController.git
+    git clone https://github.com/Shib-Sankar-Das/Hand-Gesture-Volume-Controller.git
     ```
 
 2. **Install Required Libraries**:
